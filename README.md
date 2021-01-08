@@ -1,2 +1,2 @@
-# like-on-git
-List of all likes on git
+# codewars
+https://www.codewars.com/users/seanmodd/badges/small
